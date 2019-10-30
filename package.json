@@ -1,0 +1,24 @@
+{
+  "name": "el_express",
+  "version": "1.0.0",
+  "description": "An Express look alike ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandrorios/el_express.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "expres-handlebars"
+  ],
+  "author": "Sandro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandrorios/el_express/issues"
+  },
+  "homepage": "https://github.com/sandrorios/el_express#readme"
+}
